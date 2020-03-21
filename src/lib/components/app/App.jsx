@@ -5,7 +5,7 @@ import {
     Redirect
 } from 'react-router-dom';
 
-import Chat from '../pages/Chat';
+import Chat from '../pages/ChatPage';
 
 function App() {
     return (
